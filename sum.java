@@ -3,5 +3,6 @@ class sum{
         int x=200;
         int y=500;
         System.out.println(x+y);
+        System.out.println(x+y+x);
     }
 }
