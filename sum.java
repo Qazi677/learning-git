@@ -1,5 +1,7 @@
 class sum{
     public static void main(String[] args) {
-        System.out.println("hello");
+        int x=200;
+        int y=500;
+        System.out.println(x+y);
     }
 }
